@@ -1,0 +1,3 @@
+[toolchain]
+components = ["rust-std"]
+targets = ["x86_64-unknown-none"]
